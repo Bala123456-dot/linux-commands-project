@@ -1,0 +1,8 @@
+Linux Commands Project
+
+date – shows current date
+whoami – shows current user
+hostname – shows server name
+uptime – shows server running time
+df -h – shows disk usage
+free -m – shows memory usage
